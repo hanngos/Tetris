@@ -13,4 +13,4 @@ The following techniques were used in this project: <br>
 SDL2, SDL2_image and SDL2_ttf are needed.
 
 <br>
-It was a final project for the Computer Programming 4 course at the Silesian University of Technology.
+It was a final project for the Computer Programming 4 course on Silesian University of Technology.
